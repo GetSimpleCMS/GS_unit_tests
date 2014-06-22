@@ -10,7 +10,7 @@ function init_plugin(){
 	$name     = "sitemap filter";
 	$version  = "0.1";
 	$author   = "getsimple";
-	$url      = "http://getsimple-cms.info";
+	$url      = "http://get-simple.info";
 	$desc     = "sample plugin for sitemap filtering";
 	$type     = "";
 	$func     = "";
